@@ -1,0 +1,3 @@
+rootProject.name = 'NewsDemoNavTab'
+
+include ':app'
