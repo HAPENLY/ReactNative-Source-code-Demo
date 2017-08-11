@@ -1,5 +1,5 @@
 # ReactNative-Source-code-Demo
-# 自己练习时做的一些 demo 源码
+# 自己练习时做的一些 demo 源码 iOS 端运行没有问题. Android 没有试理论上也可以
 
 ## 1.添加 QQ登录界面展示,练习 Image 和 text 控件 详见:QQLoginDemo
 ## 2.添加商城 demo 综合练习 详见:[BuyDemo](https://github.com/HAPENLY/ReactNative-Source-code-Demo/tree/master/BuyDemo)
