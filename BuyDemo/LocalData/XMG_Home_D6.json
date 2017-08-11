@@ -1,0 +1,100 @@
+{
+    "status": 1,
+    "data": [
+        {
+            "entryid": 10001,
+            "resource": {
+                "cateArea": [
+                    {
+                        "id": 178,
+                        "type": 1,
+                        "mainTitle": "演出赛事",
+                        "deputyTitle": "精彩不容错过",
+                        "otherDesc": "HOT",
+                        "topicId": 8761,
+                        "entranceImgUrl": "http://p1.meituan.net/feop/f1f9d10251a05bfcbcbb5b7e647f24e022686.png",
+                        "target": "imeituan://www.meituan.com/web?url=http://show.meituan.com"
+                    },
+                    {
+                        "id": 607,
+                        "type": 1,
+                        "mainTitle": "汽车服务",
+                        "deputyTitle": "洗车9.9元起",
+                        "otherDesc": "HOT",
+                        "topicId": 8763,
+                        "entranceImgUrl": "http://p1.meituan.net/feop/2e0784031d8d22a8cb6d6461e33405b716269.png",
+                        "target": "imeituan://www.meituan.com/web/search?url=http://i.meituan.com/auto"
+                    },
+                    {
+                        "id": 1601,
+                        "type": 1,
+                        "mainTitle": "教育培训",
+                        "deputyTitle": "1元get技能",
+                        "otherDesc": "HOT",
+                        "topicId": 20285,
+                        "entranceImgUrl": "http://p0.meituan.net/feop/6c9fcecf6629b38c6a311564a2a988ed9346.png",
+                        "target": "imeituan://www.meituan.com/web?url=http%3a%2f%2fm.dianping.com%2feducation%2fmt%2findex"
+                    },
+                    {
+                        "id": 1615,
+                        "type": 1,
+                        "mainTitle": "火车/机票",
+                        "deputyTitle": "下单赢手机",
+                        "otherDesc": "HOT",
+                        "topicId": 20066,
+                        "entranceImgUrl": "http://p1.meituan.net/feop/ac19413541f81916c6259ae879d2acf418359.jpg",
+                        "target": "imeituan://www.meituan.com/hotel/hybrid/web?url=http://i.meituan.com/trip/train/search/"
+                    },
+                    {
+                        "id": 1447,
+                        "type": 1,
+                        "mainTitle": "结婚",
+                        "deputyTitle": "婚纱照1折起",
+                        "otherDesc": "HOT",
+                        "topicId": 20178,
+                        "entranceImgUrl": "http://p1.meituan.net/feop/c8f283d9ff32d28277128ed76dacd86d38141.png",
+                        "target": "imeituan://www.meituan.com/deal/list?category_id=20178&group_category_id=20178"
+                    },
+                    {
+                        "id": 183,
+                        "type": 1,
+                        "mainTitle": "亲子",
+                        "deputyTitle": "游乐1折起",
+                        "otherDesc": "HOT",
+                        "topicId": 8766,
+                        "entranceImgUrl": "http://p0.meituan.net/w.h/groupop/e7609c4c8c61d79e623681128c0c662845863.png",
+                        "target": "imeituan://www.meituan.com/deal/list?type=poi&group_category_id=20007&category_id=20007"
+                    },
+                    {
+                        "id": 184,
+                        "type": 1,
+                        "mainTitle": "儿童摄影",
+                        "deputyTitle": "记录精彩瞬间",
+                        "otherDesc": "HOT",
+                        "topicId": 8767,
+                        "entranceImgUrl": "http://p0.meituan.net/w.h/groupop/0a9fe6ae91e02a9b6bd2c7fd19d90aa522852.png",
+                        "target": "imeituan://www.meituan.com/deal/list?group_category_id=398&category_id=398"
+                    },
+                    {
+                        "id": 181,
+                        "type": 1,
+                        "mainTitle": "运动健身",
+                        "deputyTitle": "不一样的自己",
+                        "otherDesc": "HOT",
+                        "topicId": 8764,
+                        "entranceImgUrl": "http://p1.meituan.net/w.h/groupop/4a10f786f316fd5111a8a745d7eb9fc621675.png",
+                        "target": "imeituan://www.meituan.com/deal/list?group_category_id=39&category_id=39"
+                    }
+                ],
+                "topArea": {
+                    "id": 1,
+                    "type": 1,
+                    "target": "imeituan://www.meituan.com/morecategory"
+                }
+            }
+        }
+    ],
+    "server": {
+        "time": 1459731016
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "topData":[
+    {
+      "title" : "演出赛事",
+      "subTitle" : "精彩不容错过",
+      "hotImage" : "hot_play"
+    },
+    {
+      "title" : "汽车服务",
+      "subTitle" : "汽车打蜡特惠",
+      "hotImage" : "hot_car"
+    }
+  ],
+  "bottomData":[
+    {
+      "title" : "订机票",
+      "subTitle" : "一折票马上抢",
+      "hotImage" : "hot_air"
+    },
+    {
+      "title" : "温泉",
+      "subTitle" : "品质暖冬专享",
+      "hotImage" : "hot_water"
+    },
+    {
+      "title" : "火锅",
+      "subTitle" : "冬日必吃美食",
+      "hotImage" : "hot_eat"
+    },
+    {
+      "title" : "亲子游玩",
+      "subTitle" : "宝贝去哪儿了",
+      "hotImage" : "hot_wash"
+    }
+  ]
+}
